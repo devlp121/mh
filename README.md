@@ -1,8 +1,14 @@
 # Mental Health Analysis Using Text Data
-## Dreaddit Zip file contains the data source
+## Data Source
 
+**Dreaddit** zip file contains the data source
+
+## Notebooks
 **red_model** notebook provides the data processing and training procedures that are employed.
+**serving** notebook provides the serving procedures for the trained model **[ongoing]**
+
+## Folders
 **save_model** contains the trained model generated from running the notebook.
 
-Model training checkpoints that save using callback utilities are located in the **training_1** folder.
+**training_1** folder contains the model training checkpoints that are saved using callback utilities.
 
