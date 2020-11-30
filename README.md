@@ -5,6 +5,7 @@
 
 ## Notebooks
 **red_model** notebook provides the data processing and training procedures that are employed.
+
 **serving** notebook provides the serving procedures for the trained model **[ongoing]**
 
 ## Folders
